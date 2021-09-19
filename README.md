@@ -41,7 +41,7 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=giridhar45ro&show_icons=true&locale=en" /></p>
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=giridhar45ro&show_icons=true&locale=en" height = "250px" /></p>
 </div>
-
+<br>
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=giridhar45ro" alt="giridhar45ro" /></a> </p>
   <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=giridhar45ro&" alt="giridhar45ro" /></p>
 <p> <img src="https://komarev.com/ghpvc/?username=giridhar45ro&label=Profile%20views&color=0e75b6&style=flat alt="Giridhar" /> </p>
