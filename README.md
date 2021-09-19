@@ -1,7 +1,7 @@
 ### Hey I am Giridhar 👋
 <p>I am currently pursuing my Graduation in Computer Science. I am a Software Developer I like to learn new technologies like React, React Native etc.. </p>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=giridhar45ro&label=Profile%20views&color=0e75b6&style=flat alt="Giridhar" /> </p>
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -17,3 +17,4 @@
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=giridhar45ro" /></p>
 
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=giridhar45ro&label=Profile%20views&color=0e75b6&style=flat alt="Giridhar" /> </p>
