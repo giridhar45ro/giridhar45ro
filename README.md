@@ -12,9 +12,10 @@
 </p>
 
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=giridhar45ro&show_icons=true&locale=en&layout=compact"/></p>
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=giridhar45ro&show_icons=true&locale=en"/></p>
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=giridhar45ro" /></p>
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=giridhar45ro)](https://github.com/anuraghazra/github-readme-stats)
+
+![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=giridhar45ro)  
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=giridhar45ro&label=Profile%20views&color=0e75b6&style=flat alt="Giridhar" /> </p>
