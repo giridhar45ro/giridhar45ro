@@ -8,7 +8,7 @@
 <a href="https://linkedin.com/in/giridhar187" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Giridhar" height="30" width="40" /></a>
   <a href="https://www.hackerrank.com/gorlagiridhar" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/hackerrank.svg" alt="Giridhar" height="30" width="40" /></a>
 <a href="https://instagram.com/giridhar45" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Giridhar" height="30" width="40" /></a>
-
+<a href="mailto:gorlagiridhar@karunya.edu.in" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Giridhar" height="30" width="40" /></a>
 </p>
 
 
