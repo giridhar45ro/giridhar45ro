@@ -2,8 +2,6 @@
 <h3>I am passionate Developer from India</h3>
 <p>I am currently pursuing my Graduation in Computer Science. I am a Software Developer I like to learn new technologies like React, React Native etc.. </p>
 
-- 🌱 I’m currently learning **Spring, React Native, AWS**
-
 - 📃 About [Know me](https://github.com/giridhar45ro/Files/blob/main/Giri_Resume.pdf)
 
 
