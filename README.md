@@ -2,23 +2,42 @@
 
 <h3>Full Stack Developer from India</h3>
 
-I'm a Full Stack Developer with 4+ years of experience, currently working as a **Full Stack Developer at Isha Foundation**. Before that, I was at **Zoho Corporation**, building integrations for Endpoint Central. I take web applications from requirements through design, build, testing and deployment using React, Node.js, Express, TypeScript and PostgreSQL.
-
-- 💼 Leading development of 6 web applications on AWS
-- 🎓 B.Tech in Computer Science and Engineering, Karunya Institute of Technology and Sciences (CGPA 8.45)
-- 📃 [Know me (Resume)](https://github.com/giridhar45ro/Files/blob/main/Giri_Resume.pdf)
+I'm a Full Stack Developer with 4+ years of experience, currently working at **Isha Foundation**. Before that, I was at **Zoho Corporation**, building integrations for Endpoint Central. I take web applications from requirements through design, build, testing and deployment using React, Node.js, Express, TypeScript and PostgreSQL.
 
 ---
 
-### 🚀 What I've been building
+### 💼 Experience
+
+**Full Stack Developer** · Isha Foundation · *Aug 2025 – Present*
+- Lead developer for 6 web applications: gather requirements, design, build, test and deploy on AWS.
+
+**Volunteer** · Isha Foundation · *May 2025 – Aug 2025*
+- **Customer support portal:** Knowledge base and ticketing portal integrated with Zoho Desk and SalesIQ, with Redis caching for faster page loads and an admin dashboard with role-based access that shows user activity and trends.
+
+**Member Technical Staff, Integrations Team (Endpoint Central)** · Zoho Corporation · *May 2022 – Sept 2024*
+- Built and maintained Java integrations between Endpoint Central and Jira (On-Premises and Cloud), ServiceNow, Freshdesk and ServiceDesk Plus.
+- Delivered security fixes and enhancements using secure coding practices.
+- Hardened web application security by mitigating XSS, CSRF, and SQL injection vulnerabilities while implementing SHA-256 hashing and secure authentication protocols.
+
+**Project Trainee** · Zoho Corporation · *Dec 2021 – May 2022*
+
+---
+
+### 🚀 Key projects as Full Stack Developer
 
 | Project | What it does |
 | --- | --- |
 | **Event operations platform** | One platform for a mass-attendance event, used by volunteers, coordinators and back-office teams: department and task assignment, attendance tracking, access control, vehicle passes, milestone trackers. All environments moved to SSO. |
 | **Sports tournament registration** | Phone-OTP login, team and captain registration, document uploads, and an admin back office with role-based permissions, bulk import and multi-language support. |
 | **Applicant workflow system** | Routes applicants through 10 conditional review stages with 4 auto-assignment strategies, 3-tier role-based access and API-synced payment tracking. |
-| **Customer support portal** | Knowledge base and ticketing portal integrated with Zoho Desk and SalesIQ, Redis caching for faster loads, and an admin dashboard with activity and trends. |
 | **Courier and visitor management** | Shipment tracking with approvals, status history, bulk actions and reports. Visitor system with QR check-in/out, webcam photo capture and counter-based access control. |
+
+---
+
+### 🎓 Education
+
+- **B.Tech, Computer Science and Engineering**, Karunya Institute of Technology and Sciences (2018 – 2022) · CGPA 8.45 · Merit scholarship (2018–19, 2021–22)
+- **Intermediate (XII)**, Sri Chaitanya Junior College (2016 – 2018) · 98.3%
 
 ---
 
@@ -30,7 +49,6 @@ I'm a Full Stack Developer with 4+ years of experience, currently working as a *
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vitejs/vitejs-original.svg" alt="vite" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-original.svg" alt="tailwindcss" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/>
@@ -43,7 +61,7 @@ I'm a Full Stack Developer with 4+ years of experience, currently working as a *
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/>
 </div>
 
-**Also:** REST APIs · SSO/OIDC · OAuth · JWT · RBAC · HTML5 · CSS3
+**Also:** AWS (S3, EC2) · REST APIs · SSO/OIDC · OAuth · JWT · RBAC · AppSheet · HTML5 · CSS3
 
 ---
 
@@ -58,3 +76,18 @@ I'm a Full Stack Developer with 4+ years of experience, currently working as a *
 </p>
 
 ---
+
+### 📊 GitHub Stats
+
+<p>
+  <img src="https://github-readme-stats.vercel.app/api?username=giridhar45ro&show_icons=true&locale=en" height="250px" alt="GitHub stats" />
+</p>
+<p>
+  <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=giridhar45ro" alt="GitHub trophies" /></a>
+</p>
+<p>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=giridhar45ro" alt="GitHub streak" />
+</p>
+<p>
+  <img src="https://komarev.com/ghpvc/?username=giridhar45ro&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
+</p>
