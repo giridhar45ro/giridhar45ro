@@ -2,7 +2,7 @@
 
 <h3>Full Stack Developer from India</h3>
 
-I'm a Full Stack Developer with 3.5+ years of experience, currently working as a **Full Stack Developer at Isha Foundation**. Before that, I was at **Zoho Corporation**, building integrations for Endpoint Central. I take web applications from requirements through design, build, testing and deployment using React, Node.js, Express, TypeScript and PostgreSQL.
+I'm a Full Stack Developer with 4+ years of experience, currently working as a **Full Stack Developer at Isha Foundation**. Before that, I was at **Zoho Corporation**, building integrations for Endpoint Central. I take web applications from requirements through design, build, testing and deployment using React, Node.js, Express, TypeScript and PostgreSQL.
 
 - 💼 Leading development of 6 web applications on AWS
 - 🎓 B.Tech in Computer Science and Engineering, Karunya Institute of Technology and Sciences (CGPA 8.45)
@@ -54,22 +54,7 @@ I'm a Full Stack Developer with 3.5+ years of experience, currently working as a
   <a href="https://www.hackerrank.com/gorlagiridhar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="HackerRank" height="30" width="30" /></a>
   <a href="https://leetcode.com/gorlagiridhar/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="LeetCode" height="30" width="40" /></a>
   <a href="https://instagram.com/giridhar45" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="30" width="40" /></a>
-  <a href="mailto:giridhar.ggdr@gmail.com" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/gmail.svg" alt="Email" height="30" width="40" /></a>
+  <a href="mailto:giridhar.ggdr@gmail.com" target="blank"><img align="center" src="https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white" alt="Email" height="30" /></a>
 </p>
 
 ---
-
-### 📊 GitHub Stats
-
-<p>
-  <img src="https://github-readme-stats.vercel.app/api?username=giridhar45ro&show_icons=true&locale=en" height="250px" alt="GitHub stats" />
-</p>
-<p>
-  <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=giridhar45ro" alt="GitHub trophies" /></a>
-</p>
-<p>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=giridhar45ro" alt="GitHub streak" />
-</p>
-<p>
-  <img src="https://komarev.com/ghpvc/?username=giridhar45ro&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
-</p>
