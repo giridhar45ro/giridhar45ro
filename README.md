@@ -4,7 +4,7 @@
 
 I'm a Full Stack Developer with 4+ years of experience, currently working at **Isha Foundation**. Before that, I was at **Zoho Corporation**, building integrations for Endpoint Central. I take web applications from requirements through design, build, testing and deployment using React, Node.js, Express, TypeScript and PostgreSQL.
 
-- 📃 About [Know me](https://github.com/giridhar45ro/Files/blob/main/Giri_Resume.pdf)
+- 📃 About [Know me](https://github.com/giridhar45ro/Files/blob/main/Giri_Resume%20(1).pdf)
 
 ---
 
