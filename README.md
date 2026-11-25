@@ -76,18 +76,3 @@ I'm a Full Stack Developer with 4+ years of experience, currently working at **I
 </p>
 
 ---
-
-### 📊 GitHub Stats
-
-<p>
-  <img src="https://github-readme-stats.vercel.app/api?username=giridhar45ro&show_icons=true&locale=en" height="250px" alt="GitHub stats" />
-</p>
-<p>
-  <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=giridhar45ro" alt="GitHub trophies" /></a>
-</p>
-<p>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=giridhar45ro" alt="GitHub streak" />
-</p>
-<p>
-  <img src="https://komarev.com/ghpvc/?username=giridhar45ro&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
-</p>
