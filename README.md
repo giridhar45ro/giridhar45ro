@@ -58,7 +58,6 @@ I'm a Full Stack Developer with 4+ years of experience, currently working at **I
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" alt="postgresql" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" alt="redis" width="40" height="40"/>
-  <img src="https://www.vectorlogo.zone/logos/amazon_aws/amazon_aws-icon.svg" alt="aws" width="40" height="40"/>
   <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/>
 </div>
@@ -78,18 +77,3 @@ I'm a Full Stack Developer with 4+ years of experience, currently working at **I
 </p>
 
 ---
-
-### 📊 GitHub Stats
-
-<p>
-  <img src="https://github-readme-stats.vercel.app/api?username=giridhar45ro&show_icons=true&locale=en" height="250px" alt="GitHub stats" />
-</p>
-<p>
-  <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=giridhar45ro" alt="GitHub trophies" /></a>
-</p>
-<p>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=giridhar45ro" alt="GitHub streak" />
-</p>
-<p>
-  <img src="https://komarev.com/ghpvc/?username=giridhar45ro&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
-</p>
